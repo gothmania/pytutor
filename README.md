@@ -17,8 +17,8 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 
 1. [Hello World: làm quen với Python](./01_basic/01_helloworld.ipynb)
 2. [Biến và Toán tử cơ bản](./01_basic/02_varop.ipynb)
-3. Danh sách (list), điều kiện (if), và vòng lặp (while)
-4. str, list, và vòng lặp for
+3. [Danh sách (`list`), điều kiện (`if`), và vòng lặp (`while`)](./01_basic/03_listifwhile.ipynb)
+4. [`str`, `list`, và vòng lặp `for`](./01_basic/04_strlistfor.ipynb)
 5. List comprehension
 6. Tiếp tục về str (split, join, upper)
 7. Hàm (def)
