@@ -19,9 +19,9 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 2. [Biến và Toán tử cơ bản](./01_basic/02_varop.ipynb)
 3. [Danh sách (`list`), điều kiện (`if`), và vòng lặp (`while`)](./01_basic/03_listifwhile.ipynb)
 4. [`str`, `list`, và vòng lặp `for`](./01_basic/04_strlistfor.ipynb)
-5. List comprehension
-6. Tiếp tục về str (split, join, upper)
-7. Hàm (def)
+5. [List comprehension](./01_basic/05_listcomp.ipynb)
+6. [Tiếp tục về `str` (`split`, `join`, `upper`)](./01_basic/06_str.ipynb)
+7. [Hàm (def)](./01_basic/07_def.ipynb)
 8. Bộ (tuple), Từ điển (dictionary), và Tập (set)
 9. Giải nén (unpacking)
 10. Slicing
