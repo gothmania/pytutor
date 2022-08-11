@@ -15,8 +15,8 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 
 ## B - Nhập môn (Basic)
 
-1. [Hello World: làm quen với Python](/01_basic/01_helloworld.ipynb)
-2. Biến và Toán tử cơ bản
+1. [Hello World: làm quen với Python](./01_basic/01_helloworld.ipynb)
+2. [Biến và Toán tử cơ bản](./01_basic/02_varop.ipynb)
 3. Danh sách (list), điều kiện (if), và vòng lặp (while)
 4. str, list, và vòng lặp for
 5. List comprehension
