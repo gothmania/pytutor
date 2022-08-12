@@ -30,9 +30,8 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 
 ## I - Chủ đề trung cấp (Intermediate)
 
-1. zip(), enumerate()
-2. Lambda, map(), filter()
-3. Asterisk và double asterisk
-4. yield, generator comprehension
-5. Exceptions
-6. Bit và tính toán theo bit (bitwise)
+1. [`zip()`, `enumerate()`](./02_inter/01_zipenum.ipynb)
+2. [Lambda, `map()`, `filter()`, và `reduce()`](./02_inter/02_lambda.ipynb)
+3. yield, generator comprehension
+4. Exceptions
+5. Bit và tính toán theo bit (bitwise)
