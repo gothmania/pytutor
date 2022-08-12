@@ -26,4 +26,13 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 9. [Giải nén (unpacking)](./01_basic/09_unpacking.ipynb)
 10. [Slicing](./01_basic/10_slicing.ipynb)
 11. [Định dạng chuỗi kí tự (string formatting)](./01_basic/11_strformat.ipynb)
-12. Tìm kiếm trong chuỗi kí tự
+12. [Tìm kiếm trong chuỗi kí tự](./01_basic/12_strfind.ipynb)
+
+## I - Chủ đề trung cấp (Intermediate)
+
+1. zip(), enumerate()
+2. Lambda, map(), filter()
+3. Asterisk và double asterisk
+4. yield, generator comprehension
+5. Exceptions
+6. Bit và tính toán theo bit (bitwise)
