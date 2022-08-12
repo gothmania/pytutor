@@ -33,5 +33,5 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 1. [`zip()`, `enumerate()`](./02_inter/01_zipenum.ipynb)
 2. [Lambda, `map()`, `filter()`, và `reduce()`](./02_inter/02_lambda.ipynb)
 3. [`yield` và generator comprehension](./02_inter/03_yield.ipynb)
-4. Exceptions
-5. Bit và tính toán theo bit (bitwise)
+4. [Bit và tính toán theo bit](./02_inter/04_bit.ipynb)
+5. Exceptions
