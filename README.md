@@ -34,4 +34,6 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 2. [Lambda, `map()`, `filter()`, và `reduce()`](./02_inter/02_lambda.ipynb)
 3. [`yield` và generator comprehension](./02_inter/03_yield.ipynb)
 4. [Bit và tính toán theo bit](./02_inter/04_bit.ipynb)
-5. Exceptions
+5. [Ngoại lệ (Exceptions)](./02_inter/05_exceptions.ipynb)
+
+## M - Toán (Maths)
