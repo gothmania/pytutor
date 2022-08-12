@@ -23,7 +23,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 6. [Tiếp tục về `str` (`split`, `join`, `upper`)](./01_basic/06_str.ipynb)
 7. [Hàm (def)](./01_basic/07_def.ipynb)
 8. [Bộ (`tuple`), Từ điển (`dict`), và Tập (`set`)](./01_basic/08_tupdictset.ipynb)
-9. Giải nén (unpacking)
+9. [Giải nén (unpacking)](./01_basic/09_unpacking.ipynb)
 10. Slicing
 11. Định dạng chuỗi kí tự (string formatting)
 12. Tìm kiếm trong chuỗi kí tự
