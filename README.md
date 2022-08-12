@@ -25,5 +25,5 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 8. [Bộ (`tuple`), Từ điển (`dict`), và Tập (`set`)](./01_basic/08_tupdictset.ipynb)
 9. [Giải nén (unpacking)](./01_basic/09_unpacking.ipynb)
 10. [Slicing](./01_basic/10_slicing.ipynb)
-11. Định dạng chuỗi kí tự (string formatting)
+11. [Định dạng chuỗi kí tự (string formatting)](./01_basic/11_strformat.ipynb)
 12. Tìm kiếm trong chuỗi kí tự
