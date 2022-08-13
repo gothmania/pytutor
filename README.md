@@ -36,4 +36,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 4. [Bit và tính toán theo bit](./02_inter/04_bit.ipynb)
 5. [Ngoại lệ (Exceptions)](./02_inter/05_exceptions.ipynb)
 
-## M - Toán (Maths)
+## M - Toán (Math)
+
+1. [Tính toán vector hóa (Vectorized calculation)](./03_math/01_vectorized.ipynb)
+2. [Tạo số ngẫu nhiên](./03_math/02_random.ipynb)
