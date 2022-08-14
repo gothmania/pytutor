@@ -40,4 +40,5 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 
 1. [Tính toán vector hóa (Vectorized calculation)](./03_math/01_vectorized.ipynb)
 2. [Tạo số ngẫu nhiên](./03_math/02_random.ipynb)
-3. [Slicing](./03_math/03_slicing.ipynb)
+3. [Slicing trong NumPy](./03_math/03_slicing.ipynb)
+4. [Thống kê](./03_math/04_stats.ipynb)
