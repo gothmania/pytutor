@@ -42,3 +42,24 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 2. [Tạo số ngẫu nhiên](./03_math/02_random.ipynb)
 3. [Slicing trong NumPy](./03_math/03_slicing.ipynb)
 4. [Thống kê](./03_math/04_stats.ipynb)
+
+## D - Dữ liệu (Data)
+
+1. [Pandas: Data frame và Series](./04_data/01_pandas.ipynb)
+2. Tên cột (columns) và hàng (index)
+3. Slicing trong Pandas
+4. Thay thế dữ liệu: `replace()`, `map()`, `mask()`, và `where()`
+5. Đối xử với dữ liệu NA
+6. Thống kê cơ bản và `groupby()`
+7. Biến đổi dữ liệu (transformation): `apply()`
+8. Gộp dữ liệu (aggregation): kết hợp `groupby()` và `apply()`
+9. Biến đổi dữ liệu với `groupby()`
+10. Biến đổi cấu trúc (reshaping)
+11. Pivot tables và cross-tabulation
+12. Ghép các bộ dữ liệu
+13. Số liệu dạng chuỗi kí tự
+14. Ví dụ: Điểm thi Hà Nội
+15. Số liệu thời gian
+16. Số liệu dạng danh mục (categorical)
+17. Deep copy
+18. MultiIndex
