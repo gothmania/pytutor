@@ -46,7 +46,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 ## D - Dữ liệu (Data)
 
 1. [Pandas: Data frame và Series](./04_data/01_pandas.ipynb)
-2. Tên cột (columns) và hàng (index)
+2. [Tên cột (columns) và hàng (index)](./04_data/02_colindex.ipynb)
 3. Slicing trong Pandas
 4. Thay thế dữ liệu: `replace()`, `map()`, `mask()`, và `where()`
 5. Đối xử với dữ liệu NA
