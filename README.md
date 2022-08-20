@@ -48,7 +48,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 1. [Pandas: Data frame và Series](./04_data/01_pandas.ipynb)
 2. [Tên cột (columns) và hàng (index)](./04_data/02_colindex.ipynb)
 3. [Slicing trong Pandas](./04_data/03_slicing.ipynb)
-4. Thay thế dữ liệu: `replace()`, `map()`, `mask()`, và `where()`
+4. [Thay thế dữ liệu: `replace()`, `map()`, `mask()`, và `where()`](./04_data/04_replace.ipynb)
 5. Đối xử với dữ liệu NA
 6. Thống kê cơ bản và `groupby()`
 7. Biến đổi dữ liệu (transformation): `apply()`
@@ -61,5 +61,6 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 14. Ví dụ: Điểm thi Hà Nội
 15. Số liệu thời gian
 16. Số liệu dạng danh mục (categorical)
-17. Deep copy
-18. MultiIndex
+17. Ví dụ: Data dictionary
+18. Deep copy
+19. MultiIndex
