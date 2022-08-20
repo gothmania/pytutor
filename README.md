@@ -47,7 +47,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 
 1. [Pandas: Data frame và Series](./04_data/01_pandas.ipynb)
 2. [Tên cột (columns) và hàng (index)](./04_data/02_colindex.ipynb)
-3. Slicing trong Pandas
+3. [Slicing trong Pandas](./04_data/03_slicing.ipynb)
 4. Thay thế dữ liệu: `replace()`, `map()`, `mask()`, và `where()`
 5. Đối xử với dữ liệu NA
 6. Thống kê cơ bản và `groupby()`
