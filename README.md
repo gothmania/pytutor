@@ -49,10 +49,10 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 2. [Tên cột (columns) và hàng (index)](./04_data/02_colindex.ipynb)
 3. [Slicing trong Pandas](./04_data/03_slicing.ipynb)
 4. [Thay thế dữ liệu: `replace()`, `map()`, `mask()`, và `where()`](./04_data/04_replace.ipynb)
-5. Đối xử với dữ liệu NA
+5. [Đối xử với dữ liệu NA](./04_data/05_na.ipynb)
 6. Thống kê cơ bản và `groupby()`
 7. Biến đổi dữ liệu (transformation): `apply()`
-8. Gộp dữ liệu (aggregation): kết hợp `groupby()` và `apply()`
+8. Tổng hợp dữ liệu (aggregation): kết hợp `groupby()` và `apply()`
 9. Biến đổi dữ liệu với `groupby()`
 10. Biến đổi cấu trúc (reshaping)
 11. Pivot tables và cross-tabulation
