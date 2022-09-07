@@ -51,7 +51,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 4. [Thay thế dữ liệu: `replace()`, `map()`, `mask()`, và `where()`](./04_data/04_replace.ipynb)
 5. [Đối xử với dữ liệu NA](./04_data/05_na.ipynb)
 6. [Thống kê cơ bản và `groupby()`](./04_data/06_groupby.ipynb)
-7. Biến đổi dữ liệu (transformation): `apply()`
+7. [Biến đổi dữ liệu (transformation): `apply()`](./04_data/07_apply.ipynb)
 8. Tổng hợp dữ liệu (aggregation): kết hợp `groupby()` và `apply()`
 9. Biến đổi dữ liệu với `groupby()`
 10. Biến đổi cấu trúc (reshaping)
