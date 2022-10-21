@@ -56,7 +56,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 9. [Biến đổi dữ liệu với `groupby()`](./04_data/09_transform.ipynb)
 10. [Biến đổi cấu trúc (reshaping)](./04_data/10_reshape.ipynb)
 11. [Pivot tables và cross-tabulation](./04_data/11_tabulation.ipynb)
-12. Ghép các bộ dữ liệu
+12. [Ghép các bộ dữ liệu](./04_data/12_merge.ipynb)
 13. Số liệu dạng chuỗi kí tự
 14. Ví dụ: Điểm thi Hà Nội
 15. Số liệu thời gian
