@@ -57,7 +57,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 10. [Biến đổi cấu trúc (reshaping)](./04_data/10_reshape.ipynb)
 11. [Pivot tables và cross-tabulation](./04_data/11_tabulation.ipynb)
 12. [Ghép các bộ dữ liệu](./04_data/12_merge.ipynb)
-13. Số liệu dạng chuỗi kí tự
+13. [Số liệu dạng chuỗi kí tự](./04_data/13_string.ipynb)
 14. Ví dụ: Điểm thi Hà Nội
 15. Số liệu thời gian
 16. Số liệu dạng danh mục (categorical)
