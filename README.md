@@ -58,7 +58,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 11. [Pivot tables và cross-tabulation](./04_data/11_tabulation.ipynb)
 12. [Ghép các bộ dữ liệu](./04_data/12_merge.ipynb)
 13. [Số liệu dạng chuỗi kí tự](./04_data/13_string.ipynb)
-14. Số liệu thời gian
+14. [Số liệu thời gian](./04_data/14_datetime.ipynb)
 15. Số liệu dạng danh mục (categorical)
 16. Ví dụ: Data dictionary
 17. Deep copy
