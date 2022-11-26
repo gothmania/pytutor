@@ -60,6 +60,6 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 13. [Số liệu dạng chuỗi kí tự](./04_data/13_string.ipynb)
 14. [Số liệu thời gian](./04_data/14_datetime.ipynb)
 15. [Số liệu dạng danh mục (categorical)](./04_data/15_categorical.ipynb)
-16. Ví dụ: Data dictionary
+16. [Ví dụ: Data dictionary](./04_data/16_datadict.ipynb)
 17. Deep copy
 18. MultiIndex
