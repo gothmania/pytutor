@@ -62,10 +62,10 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 15. [Số liệu dạng danh mục (categorical)](./04_data/15_categorical.ipynb)
 16. [Ví dụ: Data dictionary](./04_data/16_datadict.ipynb)
 17. [Deep copy](./04_data/17_deepcopy.ipynb)
-18. MultiIndex
+18. [MultiIndex](./04_data/18_multiindex.ipynb)
 
 ## R - Regular Expression (RegEx)
-1. Tìm kiếm cơ bản
+1. [Tìm kiếm cơ bản](./05_regex/01_basic.ipynb)
 2. Nhóm, lookahead và lookbehind
 3. Các ví dụ nâng cao
 4. Ví dụ: Điểm thi tốt nghiệp cấp 3
