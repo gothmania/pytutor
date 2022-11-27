@@ -63,3 +63,23 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 16. [Ví dụ: Data dictionary](./04_data/16_datadict.ipynb)
 17. [Deep copy](./04_data/17_deepcopy.ipynb)
 18. MultiIndex
+
+## R - Regular Expression (RegEx)
+1. Tìm kiếm cơ bản
+2. Nhóm, lookahead và lookbehind
+3. Các ví dụ nâng cao
+4. Ví dụ: Điểm thi tốt nghiệp cấp 3
+
+## G - Đồ họa (Graphics)
+1. Thư viện Matplotlib: Figure và Axes, hàm plot()
+2. Bar, line, histogram, box, KDE
+3. Scatter, LOESS, error bar
+4. Pairplot, heatmap
+5. Nhãn và chú thích
+6. Tùy biến định dạng nội dung
+7. Tùy biến trục tọa độ
+8. Vẽ nhiều biểu đồ, thêm trục tọa độ thứ hai
+9. Thêm chữ và tô màu
+10. Ví dụ: Mô phỏng khoảng tin cậy 95%
+11. Ví dụ: Mô phỏng P-value
+12. Ví dụ: Mô phỏng biến động của quần thể nghiên cứu
