@@ -66,7 +66,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 
 ## R - Regular Expression (RegEx)
 1. [Tìm kiếm cơ bản](./05_regex/01_basic.ipynb)
-2. Nhóm, lookahead và lookbehind
+2. [Nhóm, lookahead và lookbehind](./05_regex/02_group.ipynb)
 3. Các ví dụ nâng cao
 4. Ví dụ: Điểm thi tốt nghiệp cấp 3
 
