@@ -67,8 +67,8 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 ## R - Regular Expression (RegEx)
 1. [Tìm kiếm cơ bản](./05_regex/01_basic.ipynb)
 2. [Nhóm, lookahead và lookbehind](./05_regex/02_group.ipynb)
-3. Các ví dụ nâng cao
-4. Ví dụ: Điểm thi tốt nghiệp cấp 3
+3. [Ví dụ](./05_regex/03_examples.ipynb)
+4. [Ví dụ: Điểm thi tốt nghiệp cấp 3](./05_regex/04_diemthi.ipynb)
 
 ## G - Đồ họa (Graphics)
 1. Thư viện Matplotlib: Figure và Axes, hàm plot()
