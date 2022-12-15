@@ -71,7 +71,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 4. [Ví dụ: Điểm thi tốt nghiệp cấp 3](./05_regex/04_diemthi.ipynb)
 
 ## G - Đồ họa (Graphics)
-1. Thư viện Matplotlib: Figure và Axes, hàm plot()
+1. [Thư viện Matplotlib: Figure và Axes, hàm `plot()`](./06_graph/01_intro.ipynb)
 2. Bar, line, histogram, box, KDE
 3. Scatter, LOESS, error bar
 4. Pairplot, heatmap
