@@ -72,7 +72,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 
 ## G - Đồ họa (Graphics)
 1. [Thư viện Matplotlib: Figure và Axes, hàm `plot()`](./06_graph/01_intro.ipynb)
-2. Bar, line, histogram, box, KDE
+2. [Bar, line, histogram, box, KDE](./06_graph/02_plot.ipynb)
 3. Scatter, LOESS, error bar
 4. Pairplot, heatmap
 5. Nhãn và chú thích
