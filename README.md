@@ -73,13 +73,12 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 ## G - Đồ họa (Graphics)
 1. [Thư viện Matplotlib: Figure và Axes, hàm `plot()`](./06_graph/01_intro.ipynb)
 2. [Bar, line, histogram, box, KDE](./06_graph/02_plot.ipynb)
-3. Scatter, LOESS, error bar
-4. Pairplot, heatmap
-5. Nhãn và chú thích
-6. Tùy biến định dạng nội dung
-7. Tùy biến trục tọa độ
-8. Vẽ nhiều biểu đồ, thêm trục tọa độ thứ hai
-9. Thêm chữ và tô màu
-10. Ví dụ: Mô phỏng khoảng tin cậy 95%
-11. Ví dụ: Mô phỏng P-value
-12. Ví dụ: Mô phỏng biến động của quần thể nghiên cứu
+3. [Scatter, LOESS, error bar, pairplot, heatmap](./06_graph/03_plot.ipynb)
+4. Nhãn và chú thích
+5. Tùy biến định dạng nội dung
+6. Tùy biến trục tọa độ
+7. Vẽ nhiều biểu đồ, thêm trục tọa độ thứ hai
+8. Thêm chữ và tô màu
+9. Ví dụ: Mô phỏng khoảng tin cậy 95%
+10. Ví dụ: Mô phỏng P-value
+11. Ví dụ: Mô phỏng biến động của quần thể nghiên cứu
