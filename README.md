@@ -74,10 +74,10 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 1. [Thư viện Matplotlib: Figure và Axes, hàm `plot()`](./06_graph/01_intro.ipynb)
 2. [Bar, line, histogram, box, KDE](./06_graph/02_plot.ipynb)
 3. [Scatter, LOESS, error bar, pairplot, heatmap](./06_graph/03_plot.ipynb)
-4. Nhãn và chú thích
+4. [Nhãn và chú thích](./06_graph/04_label.ipynb)
 5. Tùy biến định dạng nội dung
 6. Tùy biến trục tọa độ
-7. Vẽ nhiều biểu đồ, thêm trục tọa độ thứ hai
+7. Vẽ nhiều biểu đồ, thêm trục tọa độ thứ ba
 8. Thêm chữ và tô màu
 9. Ví dụ: Mô phỏng khoảng tin cậy 95%
 10. Ví dụ: Mô phỏng P-value
