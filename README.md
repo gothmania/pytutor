@@ -76,7 +76,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 3. [Scatter, LOESS, error bar, pairplot, heatmap](./06_graph/03_plot.ipynb)
 4. [Nhãn và chú thích](./06_graph/04_label.ipynb)
 5. [Tùy biến định dạng nội dung](./06_graph/05_customize.ipynb)
-6. Tùy biến trục tọa độ
+6. [Tùy biến trục tọa độ](./06_graph/06_axis.ipynb)
 7. Vẽ nhiều biểu đồ, thêm trục tọa độ thứ ba
 8. Thêm chữ và tô màu
 9. Ví dụ: Mô phỏng khoảng tin cậy 95%
