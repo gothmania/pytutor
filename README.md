@@ -78,7 +78,7 @@ Các bài viết sẽ được nhóm lại theo từng chủ đề để các b�
 5. [Tùy biến định dạng nội dung](./06_graph/05_customize.ipynb)
 6. [Tùy biến trục tọa độ](./06_graph/06_axis.ipynb)
 7. [Vẽ nhiều biểu đồ, thêm trục tọa độ thứ ba](./06_graph/07_subplots.ipynb)
-8. Thêm chữ và tô màu
+8. [Thêm chữ và tô màu](./06_graph/08_text.ipynb)
 9. Ví dụ: Mô phỏng khoảng tin cậy 95%
 10. Ví dụ: Mô phỏng P-value
 11. Ví dụ: Mô phỏng biến động của quần thể nghiên cứu
